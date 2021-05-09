@@ -1,0 +1,9 @@
+{
+    "invalid_entries" : "Invalid entries. Try again.",
+    "emailExists": "Email already registered",
+    "loginEmailrequired": "All fields must be filled",
+    "invalidEmail": "Incorrect username or password",
+    "recipeNotFound": "recipe not found",
+    "tokenInvalido": "jwt malformed",
+    "update": "missing auth token"
+ }
